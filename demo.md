@@ -1,7 +1,5 @@
 # Attribute trong C#
 
-
-
 ## 1 Định nghĩa:
 
 > Attribute được sử dụng trong c# để truyền đạt thông tin khai báo hoặc metadata về các phần tử mã khác nhay như method, asemblies, properties. Các thuộc tính được thêm vào bằng cách sử dụng thẻ khai báo được đặt bằng dấu ngoặc vuông.
@@ -267,3 +265,8 @@ public class DeBugInfo : System.Attribute
    }
 }
 ```
+
+### 5 Tài liệu tham khảo
+
+> [geeksforgeeks](https://www.geeksforgeeks.org/attributes-in-c-sharp/) 
+> [microsoft](https://learn.microsoft.com/en-us/dotnet/csharp/advanced-topics/reflection-and-attributes/attribute-tutorial)
