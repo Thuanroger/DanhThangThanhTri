@@ -268,5 +268,6 @@ public class DeBugInfo : System.Attribute
 
 ### 5 Tài liệu tham khảo
 
-> [geeksforgeeks](https://www.geeksforgeeks.org/attributes-in-c-sharp/) 
+> [[geeksforgeeks](https://www.geeksforgeeks.org/attributes-in-c-sharp/)](https://www.geeksforgeeks.org/attributes-in-c-sharp/)
+> 
 > [microsoft](https://learn.microsoft.com/en-us/dotnet/csharp/advanced-topics/reflection-and-attributes/attribute-tutorial)
